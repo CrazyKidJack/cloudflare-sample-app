@@ -1,6 +1,9 @@
-name = "awwbot"
+name = "reddittloudflaretutorial"
 main = "./src/server.js"
 compatibility_date="2023-05-18"
+
+[dev]
+port = 8787
 
 # [secrets]
 # DISCORD_TOKEN
